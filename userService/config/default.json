@@ -1,0 +1,4 @@
+{
+    "mongoUri":"mongodb+srv://molka:user@userservice.cfqzj.mongodb.net/userService?retryWrites=true&w=majority",
+    "secretOrkey":"my secret"
+}

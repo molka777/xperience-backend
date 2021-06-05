@@ -1,0 +1,4 @@
+{
+    "mongoUri":"mongodb+srv://molka:experience@experienceservice.jeqvl.mongodb.net/experienceService?retryWrites=true&w=majority",
+    "secretOrkey":"my secret"
+}

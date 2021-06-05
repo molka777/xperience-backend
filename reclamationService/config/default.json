@@ -1,0 +1,4 @@
+{
+    "mongoUri":"mongodb+srv://molka:reclamation@reclamationservice.ev7ak.mongodb.net/reclamationService?retryWrites=true&w=majority",
+    "secretOrkey":"my secret"
+}

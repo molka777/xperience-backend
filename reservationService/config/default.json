@@ -1,0 +1,4 @@
+{
+    "mongoUri":"mongodb+srv://molka:reservation@reservationservice.avzez.mongodb.net/reservationService?retryWrites=true&w=majority",
+    "secretOrkey":"my secret"
+}
