@@ -8,7 +8,6 @@ Router.post('/experience',experienceController.createExperience);
 Router.put('/experience/:id',experienceController.updateExperience)
 Router.get('/experience/:id',experienceController.getSingleExperience);
 Router.delete('/experience/:id',experienceController.deleteExperience);
-Router.post('/experience',experienceController.createExperience);
 Router.post('/session', experienceController.addSession);
 
 module.exports = Router;
